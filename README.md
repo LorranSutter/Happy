@@ -95,12 +95,15 @@ This will start expo CLI on your browser. A QR code will appear on your screen a
 - [Express.js](http://expressjs.com/) - web application framework
 - [ReactJS](https://reactjs.org/) - frontend library
 - [React Leaflet](https://react-leaflet.js.org/) - map component based on Leaflet
-<!-- - [Multer](https://www.npmjs.com/package/multer) - middleware for uploading files -->
+- [Multer](https://www.npmjs.com/package/multer) - middleware for uploading files
+- [TS node dev](https://www.npmjs.com/package/ts-node-dev) - monitor and restart server after changes
+- [Sqlite](https://www.sqlite.org/index.html) - simple SQL database engine
+- [Cors](https://www.npmjs.com/package/cors) - provides a middleware that can be used to enable Cross-origin resource sharing
+- [ExpressJS Async Errors](https://www.npmjs.com/package/express-async-errors) - handle async errors in express
+- [Yup](https://www.npmjs.com/package/yup) - data validation
+- [Typeorm](https://www.npmjs.com/package/typeorm) - ORM for typescript
 <!-- - [React Navigation](https://reactnavigation.org/) - routing and navigation for react apps -->
 <!-- - [React dropzone](https://react-dropzone.js.org/) - create zone to drop files -->
 <!-- - [React Native](https://reactnative.dev/) - framework for mobile development -->
 <!-- - [Expo](https://expo.io/) - tool for helping mobile development with react native -->
 <!-- - [React Native Maps](https://github.com/react-native-community/react-native-maps) - map component for iOS and Android -->
-<!-- - [Knex](http://knexjs.org/) - query builder -->
-<!-- - [Sqlite](https://www.sqlite.org/index.html) - simple SQL database engine -->
-<!-- - [Celebrate](https://github.com/arb/celebrate) - middleware to validate data -->

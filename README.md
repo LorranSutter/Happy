@@ -1,5 +1,7 @@
 # Happy - Next Level Week
 
+<!-- Next level https://github.com/rocketseat-education/nlw-03-omnistack -->
+
 <div align="center"><h3><i>Under Development</i></h3></div>
 
 Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0) to learn backend, frontend and mobile development employing React JS, React Native and Express.
@@ -25,16 +27,16 @@ The mobile web app is indended for users that want to find collection points, wh
 - Choose and read details about the collection point.
 - Get in touch with the place, either registered email or whatsapp. -->
 
-<!-- ## :runner: How to run
+## :runner: How to run
 
 Open your terminal in the folder you want to clone the project
 
 ```sh
 # Clone this repo
-git clone https://github.com/LorranSutter/Ecoleta.git
+git clone https://github.com/LorranSutter/Happy.git
 
 # Go to the project
-cd Ecoleta
+cd Happy
 
 # Go to each folder and install dependencies
 cd backend
@@ -53,7 +55,7 @@ Backend will run on http://localhost:5000/
 
 Frontend will run on http://localhost:3000/
 
-Mobile will run on http://localhost:19002/
+Mobile will run on http://localhost:19002/ (it may vary, check the right url on expo)
 
 ```sh
 # Go to backend
@@ -81,7 +83,7 @@ cd mobile
 expo start
 ```
 
-This will start expo CLI on your browser. A QR code will appear on your screen and in terminal. You can scan this QR code with [Expo app](https://expo.io/tools#client) to see the application running in your phone. -->
+This will start expo CLI on your browser. A QR code will appear on your screen and in terminal. You can scan this QR code with [Expo app](https://expo.io/tools#client) to see the application running in your phone.
 
 ## :book: Resources
 
@@ -90,20 +92,32 @@ This will start expo CLI on your browser. A QR code will appear on your screen a
 
 ## :computer: Technologies
 
-- [Typescript](https://www.typescriptlang.org/) - superset of JS programming language static typed
-- [Node.js](https://nodejs.org/en/) - executes JS scripts in server side
-- [Express.js](http://expressjs.com/) - web application framework
-- [ReactJS](https://reactjs.org/) - frontend library
-- [React Leaflet](https://react-leaflet.js.org/) - map component based on Leaflet
-- [Multer](https://www.npmjs.com/package/multer) - middleware for uploading files
-- [TS node dev](https://www.npmjs.com/package/ts-node-dev) - monitor and restart server after changes
-- [Sqlite](https://www.sqlite.org/index.html) - simple SQL database engine
-- [Cors](https://www.npmjs.com/package/cors) - provides a middleware that can be used to enable Cross-origin resource sharing
-- [ExpressJS Async Errors](https://www.npmjs.com/package/express-async-errors) - handle async errors in express
-- [Yup](https://www.npmjs.com/package/yup) - data validation
-- [Typeorm](https://www.npmjs.com/package/typeorm) - ORM for typescript
-<!-- - [React Navigation](https://reactnavigation.org/) - routing and navigation for react apps -->
-<!-- - [React dropzone](https://react-dropzone.js.org/) - create zone to drop files -->
-<!-- - [React Native](https://reactnative.dev/) - framework for mobile development -->
-<!-- - [Expo](https://expo.io/) - tool for helping mobile development with react native -->
-<!-- - [React Native Maps](https://github.com/react-native-community/react-native-maps) - map component for iOS and Android -->
+1. Backend
+
+    - [Typescript](https://www.typescriptlang.org/) - superset of JS programming language static typed
+    - [Node.js](https://nodejs.org/en/) - executes JS scripts in server side
+    - [Express.js](http://expressjs.com/) - web application framework
+    - [Multer](https://www.npmjs.com/package/multer) - middleware for uploading files
+    - [TS node dev](https://www.npmjs.com/package/ts-node-dev) - monitor and restart server after changes
+    - [Sqlite](https://www.sqlite.org/index.html) - simple SQL database engine
+    - [Cors](https://www.npmjs.com/package/cors) - provides a middleware that can be used to enable Cross-origin resource sharing
+    - [ExpressJS Async Errors](https://www.npmjs.com/package/express-async-errors) - handle async errors in express
+    - [Yup](https://www.npmjs.com/package/yup) - data validation
+    - [Typeorm](https://www.npmjs.com/package/typeorm) - ORM for typescript
+
+2. Frontend
+
+    - [ReactJS](https://reactjs.org/) - frontend library
+    - [React Icons](https://www.npmjs.com/package/react-icons) - icons library
+    - [React Leaflet](https://react-leaflet.js.org/) - map component based on Leaflet
+    - [React router dom](https://www.npmjs.com/package/react-router-dom) - routing and navigation for react apps
+    - [Axios](https://www.npmjs.com/package/axios) - HTTP requests
+
+3. Mobile
+    - [React Native](https://reactnative.dev/) - framework for mobile development
+    - [React Navigation](https://reactnavigation.org/) - routing and navigation for react apps
+    - [React Native Maps](https://github.com/react-native-community/react-native-maps) - map component for iOS and Android
+    - [React Native Gesture Handler](https://www.npmjs.com/package/react-native-gesture-handler) - provides touch and gestures
+    - [Expo](https://expo.io/) - tool for helping mobile development with react native
+    - [Expo Fonts](https://www.npmjs.com/package/expo-font) - load fonts at runtime
+    - [Expo Image Picker](https://www.npmjs.com/package/expo-image-picker) - provides UI to acccess images and videos

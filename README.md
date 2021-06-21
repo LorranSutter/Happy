@@ -4,7 +4,7 @@
 
 <div align="center"><h3><i>Under Development</i></h3></div>
 
-Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0) to learn backend, frontend and mobile development employing React JS, React Native and Express.
+Project provided by [Rocket Seat](https://rocketseat.com.br) to learn backend, frontend and mobile development employing React JS, React Native and Express.
 
 <!-- <div align="center">
 
